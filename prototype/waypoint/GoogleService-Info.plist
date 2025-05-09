@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>889033983704-f6c4o3m35rkounnspe250djr4qnt5ldr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.889033983704-f6c4o3m35rkounnspe250djr4qnt5ldr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBq_cAnbdJPn4f_f3yXQVcKmZtiqe6N8kE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>889033983704</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.owenwalls.buoy</string>
+	<key>PROJECT_ID</key>
+	<string>buoysocialapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buoysocialapp.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:889033983704:ios:b87e02ea39a20e8934f9ad</string>
+</dict>
+</plist>
